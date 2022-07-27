@@ -12,7 +12,6 @@ import Sushi8 from "../Image/sushi8.svg";
 import Sushi9 from "../Image/sushi9.svg";
 import Sushi10 from "../Image/sushi10.svg";
 import Sushi11 from "../Image/sushi11.svg";
-import Sushi15 from "../Image/sushi15.svg";
 
 
 
