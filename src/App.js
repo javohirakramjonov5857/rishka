@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './Component/Navbar/Navbar'
+import "./App.css"
 import { Routes, Route } from 'react-router-dom'
 import Home from './Component/Home/Home'
 import Dastabka from './Component/dastabka/Dastabka'
